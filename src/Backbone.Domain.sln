@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{4A3B3D85-D789-49D8-BC8C-8F307D1147DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backbone.Domain.Entities", "Backbone.Domain.Entities\Backbone.Domain.Entities.csproj", "{8BDE9D1D-C4C2-46EE-AECC-29A38F62D1F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BDE9D1D-C4C2-46EE-AECC-29A38F62D1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDE9D1D-C4C2-46EE-AECC-29A38F62D1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDE9D1D-C4C2-46EE-AECC-29A38F62D1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDE9D1D-C4C2-46EE-AECC-29A38F62D1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

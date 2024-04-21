@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>WoW2.0.Backbone.Domain.Entities</PackageId>
+        <Version>8.0.1</Version>
+        <Title>WoW2.0.Backbone.Domain.Entities</Title>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Authors>WoW 2.0 Team</Authors>
+    </PropertyGroup>
+
+</Project>
